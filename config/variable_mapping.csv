@@ -1,0 +1,38 @@
+dataset,construct,source_variable,analysis_variable,role,direction_or_coding
+Trupp 2022,participant identifier,SubID,id,identifier,unique participant code
+Trupp 2022,condition,condition,condition,exposure,art versus non_art
+Trupp 2022,time,block,time,repeated factor,pre versus post
+Trupp 2022,state anxiety,STAI,state_anxiety,primary outcome,higher values indicate greater anxiety
+Trupp 2022,positive mood,posMood,positive_mood,secondary outcome,higher values indicate more positive mood
+Trupp 2022,negative mood,negMood,negative_mood,secondary outcome,higher values indicate more negative mood
+Trupp 2022,loneliness,lone,loneliness,secondary outcome,higher values indicate greater loneliness
+Trupp 2022,subjective well-being,wellbeing,wellbeing,secondary outcome,higher values indicate greater well-being
+Trupp 2022,beauty appraisal,experience_beautifulness,beauty,post-exposure correlate,higher values indicate greater beauty
+Trupp 2022,meaning appraisal,experience_meaning,meaning,post-exposure correlate,higher values indicate greater meaning
+Castellotti 2025,participant identifier,first column,id,identifier,S01 through S92
+Castellotti 2025,state anxiety pre,STAI-S Pre-visit (score),anxiety_pre,primary outcome,higher values indicate greater anxiety
+Castellotti 2025,state anxiety post,STAI-S Post-visit (score),anxiety_post,primary outcome,higher values indicate greater anxiety
+Castellotti 2025,trait anxiety,Anxiety Trait (STAI-T),trait_anxiety,moderator,higher values indicate greater trait anxiety
+Castellotti 2025,art preference,Art Preference,art_preference,exploratory correlate,sum score
+Castellotti 2025,openness,OTE (BFAS),openness,exploratory correlate,sum score
+Castellotti 2025,curiosity,Curiosity (CEI-II),curiosity,exploratory correlate,sum score
+Castellotti 2025,visit time,Visit time,visit_minutes,exploratory correlate,minutes
+Castellotti 2025,beauty,5. Beauty,beauty,post-exposure correlate,higher values indicate greater beauty
+Castellotti 2025,understanding,8. Understanding,understanding,post-exposure correlate,higher values indicate greater understanding
+Castellotti 2025,satisfaction,24. Satisfaction,satisfaction,post-exposure correlate,higher values indicate greater satisfaction
+HEartS 2019,visual arts attendance,rart8,visual_arts_frequency,primary exposure,0 none; 1 to 2 infrequent; 3 to 4 regular; 5 to 6 weekly or daily
+HEartS 2019,mental health continuum,mhcscore,mhc_sf,co-primary outcome,higher values indicate greater positive mental health
+HEartS 2019,depressive symptoms,cesdscore,cesd8,co-primary outcome,higher values indicate more depressive symptoms
+HEartS 2019,depression threshold,cesdbin3,cesd_case,co-primary outcome,one indicates threshold met
+HEartS 2019,UCLA loneliness,ucla3score,ucla_loneliness,secondary outcome,higher values indicate greater loneliness
+HEartS 2019,De Jong Gierveld loneliness,djgscore,djg_loneliness,secondary outcome,higher values indicate greater loneliness
+HEartS 2019,social connectedness,soconscore2,social_connectedness,secondary outcome,higher values indicate greater connectedness
+HEartS 2019,age category,agecat,age_category,covariate,seven categories
+HEartS 2019,ethnicity,ethnicgroups,ethnicity6,covariate,reconstructed six-category grouping
+HEartS 2019,education,educ4,education4,covariate,four categories
+HEartS 2019,arts profession,artprofbin,arts_professional,covariate,binary
+HEartS 2019,self-rated health,srh3,self_rated_health,covariate,three categories
+HEartS 2019,physical activity,mild; mod; vig,activity,covariate,three intensity variables
+HEartS 2019,partner closeness,partnerclose3,partner_closeness,covariate,three categories
+HEartS 2019,other receptive arts,rartscore minus indicator of rart8,other_receptive_arts,sensitivity covariate,derived score
+HEartS 2019,participatory arts,partscore,participatory_arts,sensitivity covariate,total score

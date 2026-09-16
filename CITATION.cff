@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: Cite this repository and the three original data sources when reusing the analytical materials.
+title: Receptive Visual Arts Engagement and Mental Health
+type: software
+authors:
+  - family-names: Jia
+    given-names: Liang
+version: 1.0.0
+date-released: 2026-09-16
+license: MIT
+keywords:
+  - receptive visual arts
+  - mental health promotion
+  - state anxiety
+  - well-being
+  - secondary analysis
+  - evidence triangulation
+abstract: Reproducible code, construct harmonization materials, derived estimates, and publication figures for a multi-dataset secondary analysis of receptive visual arts engagement and mental health.

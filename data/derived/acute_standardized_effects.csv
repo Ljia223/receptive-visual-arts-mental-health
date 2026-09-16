@@ -1,0 +1,5 @@
+dataset,estimate_type,group,n,estimate,conf.low,conf.high,direction
+Trupp 2022,within-group post minus pre,art,40,-0.369,-0.686,-0.137,lower anxiety
+Trupp 2022,within-group post minus pre,non_art,44,-0.212,-0.417,-0.028,lower anxiety
+Trupp 2022,between-condition difference in change,art minus active cultural content,84,-0.114,-0.416,0.167,lower anxiety in art condition
+Castellotti 2025,within-group post minus pre,in-person exhibition,92,-0.420,-0.583,-0.278,lower anxiety

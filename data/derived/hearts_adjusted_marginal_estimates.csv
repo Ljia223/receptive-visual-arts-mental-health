@@ -1,0 +1,9 @@
+outcome,category,estimate,conf.low,conf.high
+MHC-SF,None,36.8264,36.1000,37.5529
+MHC-SF,Infrequent,37.8985,37.3257,38.4714
+MHC-SF,Regular,40.4176,39.6518,41.1833
+MHC-SF,Weekly or daily,46.6968,44.9232,48.4705
+CES-D,None,3.4509,3.3354,3.5663
+CES-D,Infrequent,3.5940,3.4977,3.6903
+CES-D,Regular,3.4154,3.2862,3.5447
+CES-D,Weekly or daily,3.7669,3.4237,4.1102
